@@ -1,0 +1,12 @@
+Dieser Ordner benötigt die esp-dl, esp-idf und esp-ppq directories aus GitHub.
+
+Die exakten Versionen:
+ESP-IDF: c8fc5f643b7a7b0d3b182d3df610844e3dc9bd74
+ESP-DL: ac58ec9c0398e665c9b1d66d3760ac47d1676018
+ESP-PPQ: edfd2d685f88e5b17f773981647172d0ea628ae3
+
+Befehl für Einfachkeit:
+
+git clone -b v5.3.1 https://github.com/espressif/esp-idf.git
+git clone https://github.com/espressif/esp-dl.git
+git clone https://github.com/espressif/esp-ppq.git
